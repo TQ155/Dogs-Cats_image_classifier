@@ -1,0 +1,3 @@
+AI with Python nanodegree final project, In this project, I implemented an image classification application. This application trained a deep learning model on a dataset of images. It then used the trained model to classify new images.
+
+In this project, I trained an image classifier to recognize different species of flowers. I could imagine using something like this in a phone app that tells me the name of the flower my camera is looking at. In practice, I trained this classifier and exported it for use in my application. I used a dataset of 102 flower categories. I predicted the flower name from an image with predict.py, along with the probability of that name. I passed in a single image /path/to/image and returned the flower name and class probability.
